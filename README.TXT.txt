@@ -1,0 +1,3 @@
+Estoy practicando meterle un README a los proyectos no me roooompas las pelotas.
+Dejo un link random y un par de cosas mas.
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5958.15516109572!2d-55.931852896335045!3d-27.38382625894606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1725495993715!5m2!1ses!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
